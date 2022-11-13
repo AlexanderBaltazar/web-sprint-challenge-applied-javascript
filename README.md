@@ -58,7 +58,12 @@ In meeting the minimum viable product (MVP) specifications listed below, your pr
 Demonstrate your understanding of this sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question.
 
 1. What is the DOM?
+Document Object Model. Its an object representation of the webpage. It can be edited and changed through different programs
 2. What is an event?
+an event is an action the user takes, such as scrolling, clicking on a button, double clicking, etc.
 3. What is an event listener?
+a function that creates a reaction from the event
 4. Why would we convert a NodeList into an Array?
+we would convert a NodeList to an array so we can iterate over it with a method or for loop
 5. What is a component?
+Components are reusable, modular pieces of code.
